@@ -8,7 +8,7 @@ Configuração Vagrant para IDG
 Introdução
 ==========
 
-`Vagrant <https://www.vagrantup.com/>`_ é uma ferramenta para construir e ferenciar ambientes de máquinas virtuais en um workflow simples.
+`Vagrant <https://www.vagrantup.com/>`_ é uma ferramenta para construir e gerenciar ambientes de máquinas virtuais em um workflow simples.
 Vagrant se encontra disponível para sistemas operacionais Debian/Ubuntu, Windows, Centos e Mac OS X.
 
 Este repositório contem uma configuração Vagrant para desenvolvimento do modelo de portal Plone para Identidade Digital de Governo.
@@ -120,7 +120,7 @@ Abre uma janela em su web browser e aponte a ``localhost:8080``.
 
 O Plone está disponível e pronto para criação de sites IDG.
 
-Para deter o servidor Zope presione ``Ctrl+C``:
+Para parar o servidor Zope presione ``Ctrl+C``:
 
 .. code-block:: console
 
